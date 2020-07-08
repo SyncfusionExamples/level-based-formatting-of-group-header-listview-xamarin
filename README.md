@@ -1,6 +1,10 @@
-# This example demonstrate how to apply background color for different group in xamarin.forms listview
+# How to format the group header for different levels of grouping in Xamarin.Forms ListView(SfListView)?
 
 You can format the different levels of the group by binding the [converter](https://docs.microsoft.com/en-us/xamarin/xamarin-forms/app-fundamentals/data-binding/converters) for the loaded elements to the [GroupHeaderTemplate](https://help.syncfusion.com/cr/cref_files/xamarin/Syncfusion.SfListView.XForms~Syncfusion.ListView.XForms.SfListView~GroupHeaderTemplate.html) of the Xamarin.Forms [SfListView](https://help.syncfusion.com/xamarin/listview/overview).
+
+You can also refer the following article.
+
+https://www.syncfusion.com/kb/11685/how-to-format-the-group-header-for-different-levels-of-grouping-in-xamarin-forms
 
 **XAML**
 
